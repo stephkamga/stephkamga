@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stephkamga
-- 👀 I’m interested in Low Code , BPM , K8's , Cloud etc....Anything related to technology that can helpfull to solve real business problem. 
+- 👀 I’m interested in AI , Low Code , BPM , K8's , Cloud etc....Anything related to technology that can helpfull to solve real business problem. 
 - 🌱 I’m currently learning K8's , Process Mining
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ste.kamga@gmail.com
